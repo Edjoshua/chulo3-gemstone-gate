@@ -8,7 +8,7 @@ import fruitBlastImage from "@/assets/fruit-blast-hero.jpg";
 const games = [
   {
     id: 1,
-    title: "Blasty Fruit Juice Defender",
+    title: "Blasty Fruit Juice Defender Saga",
     subtitle: "Action RPG Adventure",
     description: "Embark on an epic journey as a warrior hero who harnesses the power of magical fruits. Battle fierce enemies, unlock devastating abilities, and face the ultimate challenge: Queen Mafalora herself. Experience intense combat, strategic fruit-power combinations, and a rich narrative in this action-packed adventure.",
     features: ["Epic Boss Battles", "Fruit Power System", "Rich Storyline", "Intense Combat"],

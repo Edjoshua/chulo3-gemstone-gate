@@ -21,7 +21,7 @@ const BlastyFruitJuiceDefender = () => {
         <div className="absolute inset-0">
           <img
             src={blastyHeroImage}
-            alt="Blasty Fruit Juice Defender"
+            alt="Blasty Fruit Juice Defender Saga"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-r from-background via-background/90 to-transparent" />
@@ -46,9 +46,9 @@ const BlastyFruitJuiceDefender = () => {
             </div>
 
             <h1 className="font-display font-bold text-5xl md:text-6xl lg:text-7xl text-foreground mb-6 animate-fade-in-up delay-100">
-              Blasty Fruit<br />
+              Blasty Fruit Juice<br />
               <span className="bg-gradient-to-r from-purple-400 via-pink-400 to-orange-400 bg-clip-text text-transparent">
-                Juice Defender
+                Defender Saga
               </span>
             </h1>
 
@@ -171,7 +171,7 @@ const BlastyFruitJuiceDefender = () => {
               Ready to <span className="text-gradient-gold">Defend</span>?
             </h2>
             <p className="text-muted-foreground text-lg mb-8">
-              Join the battle and become the ultimate Fruit Juice Defender. Sign up for updates and be the first to play.
+              Join the battle and become the ultimate Fruit Juice Defender Saga hero. Sign up for updates and be the first to play.
             </p>
             <div className="flex flex-wrap gap-4 justify-center">
               <Link to="/contact">

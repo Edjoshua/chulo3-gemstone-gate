@@ -61,7 +61,7 @@ const Footer = () => {
                   className="text-muted-foreground hover:text-gold transition-colors duration-300 flex items-center gap-2"
                 >
                   <Gamepad2 size={16} className="text-primary" />
-                  Blasty Fruit Juice Defender
+                  Blasty Fruit Juice Defender Saga
                 </Link>
               </li>
               <li>
@@ -85,10 +85,10 @@ const Footer = () => {
           <div className="flex items-center gap-2 text-muted-foreground text-sm">
             <Mail size={16} className="text-gold" />
             <a
-              href="mailto:oruskies@gmail.com"
+            href="mailto:chulo3entertainment@gmail.com"
               className="hover:text-gold transition-colors"
             >
-              oruskies@gmail.com
+              chulo3entertainment@gmail.com
             </a>
           </div>
         </div>
