@@ -7,7 +7,7 @@ import fruitBlastImage from "@/assets/fruit-blast-hero.jpg";
 const games = [
   {
     id: 1,
-    title: "Blasty Fruit Juice Defender",
+    title: "Blasty Fruit Juice Defender Saga",
     description: "A warrior hero collects powerful fruits to gain abilities and fight enemies. Battle Queen Mafalora in epic combat!",
     path: "/blasty-fruit-juice-defender",
     image: blastyHeroImage,
